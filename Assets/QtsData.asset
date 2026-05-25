@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eb64491e97c3674ca735a99cff53fb3, type: 3}
+  m_Name: QtsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: What is Java?
+    replies:
+    - A computer virus
+    - A programming language
+    - 'A web browser '
+    - An operating system
+    correctReplyIndex: 1
+  - questionText: Who created Java?
+    replies:
+    - Microsoft
+    - Apple
+    - Sun Microsystems
+    - Google
+    correctReplyIndex: 2
+  - questionText: What does JVM stand for?
+    replies:
+    - Java Variable Method
+    - Java Virtual Machine
+    - Java Version Manager
+    - Java Visual Monitor
+    correctReplyIndex: 1
+  - questionText: 'What is the function of variables in Java? '
+    replies:
+    - To delete programs
+    - To store data
+    - To create viruses
+    - To design websites
+    correctReplyIndex: 1
+  - questionText: Which of the following is an example of a loop in Java?
+    replies:
+    - if
+    - catch
+    - for
+    - try
+    correctReplyIndex: 2
+  - questionText: What is object-oriented programming?
+    replies:
+    - A way to organize code using objects and classes
+    - A type of computer hardware
+    - A virus protection system
+    - A web browser feature
+    correctReplyIndex: 0
+  - questionText: 'What is the purpose of methods in Java? '
+    replies:
+    - To damage the program
+    - To divide tasks into reusable code
+    - To remove variables
+    - To stop the computer
+    correctReplyIndex: 1
+  - questionText: Why is Java popular for Android development?
+    replies:
+    - It only works on Linux
+    - It is flexible and secure
+    - It cannot create apps
+    - It is only for games
+    correctReplyIndex: 1
+  - questionText: What is exception handling in Java?
+    replies:
+    - A way to manage errors in a program
+    - 'A type of loop '
+    - 'A design software '
+    - A mobile application
+    correctReplyIndex: 0
+  - questionText: Which industry commonly uses Java?
+    replies:
+    - Banking
+    - Farming
+    - Fishing
+    - Painting
+    correctReplyIndex: 0

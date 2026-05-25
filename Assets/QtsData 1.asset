@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eb64491e97c3674ca735a99cff53fb3, type: 3}
+  m_Name: QtsData 1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Which of the following is NOT an OOP principle?
+    replies:
+    - Encapsulation
+    - Inheritance
+    - 'Compilation '
+    - Polymorphism
+    correctReplyIndex: 2
+  - questionText: What does OOP stand for in Java?
+    replies:
+    - Object Oriented Programming
+    - Object Organized Process
+    - Online Operating Program
+    - Object Over Programming
+    correctReplyIndex: 0
+  - questionText: Which of the following is a blueprint for creating objects?
+    replies:
+    - Method
+    - Object
+    - Class
+    - Variable
+    correctReplyIndex: 2
+  - questionText: 'What is an object in Java? '
+    replies:
+    - A function inside a class
+    - A real instance of a class
+    - A keyword in Java
+    - A loop structure
+    correctReplyIndex: 1
+  - questionText: Which OOP principle hides data and protects it from outside access?
+    replies:
+    - Inheritance
+    - Encapsulation
+    - Polymorphism
+    - Abstraction
+    correctReplyIndex: 1
+  - questionText: Which OOP concept allows one class to inherit properties of another?
+    replies:
+    - Encapsulation
+    - Polymorphism
+    - Inheritance
+    - Compilation
+    correctReplyIndex: 2
+  - questionText: 'What is polymorphism in Java? '
+    replies:
+    - One class has many variables
+    - One method has many forms
+    - One program has many files
+    - One object has many classes
+    correctReplyIndex: 1
+  - questionText: Which feature hides unnecessary implementation details?
+    replies:
+    - Abstraction
+    - Encapsulation
+    - Inheritance
+    - Execution
+    correctReplyIndex: 0
+  - questionText: Which keyword is used for inheritance in Java?
+    replies:
+    - this
+    - 'super '
+    - 'extends '
+    - import
+    correctReplyIndex: 2
+  - questionText: What is method overloading?
+    replies:
+    - Same method name, different parameters
+    - Same method name, same parameters
+    - Different method name, same class
+    - Same method name, no parameters
+    correctReplyIndex: 0

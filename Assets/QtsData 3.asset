@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eb64491e97c3674ca735a99cff53fb3, type: 3}
+  m_Name: QtsData 3
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: What is web development?
+    replies:
+    - Building hardware systems
+    - Creating websites and web applications
+    - Installing software only
+    - Designing mobile apps only
+    correctReplyIndex: 1
+  - questionText: 'Front-end development focuses on:'
+    replies:
+    - Server logic
+    - User interface
+    - Database
+    - Hardware
+    correctReplyIndex: 1
+  - questionText: 'Back-end development handles:'
+    replies:
+    - Website colors
+    - Server-side logic
+    - Images only
+    - Fonts only
+    correctReplyIndex: 1
+  - questionText: 'HTML is used for: '
+    replies:
+    - Styling
+    - Structure of web pages
+    - Database
+    - Security
+    correctReplyIndex: 1
+  - questionText: 'CSS is used for:'
+    replies:
+    - Structure
+    - Styling
+    - Server
+    - Logic
+    correctReplyIndex: 1
+  - questionText: Which is a back-end language?
+    replies:
+    - HTML
+    - CSS
+    - PHP
+    - Photoshop
+    correctReplyIndex: 2
+  - questionText: 'Database is used to: '
+    replies:
+    - Design websites
+    - Store data
+    - Draw images
+    - Play videos
+    correctReplyIndex: 1
+  - questionText: What is responsive design?
+    replies:
+    - Fast server
+    - Works on all devices
+    - Only desktop design
+    - Only mobile design
+    correctReplyIndex: 1
+  - questionText: 'JavaScript is used for:'
+    replies:
+    - Styling only
+    - Interactivity
+    - Database
+    - Hardware
+    correctReplyIndex: 1
+  - questionText: What does API stand for?
+    replies:
+    - Application Programming Interface
+    - Application Process Input
+    - Advanced Program Internet
+    - Application Print Internet
+    correctReplyIndex: 0

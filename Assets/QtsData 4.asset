@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eb64491e97c3674ca735a99cff53fb3, type: 3}
+  m_Name: QtsData 4
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: 'Full-stack developer works on:'
+    replies:
+    - Only front-end
+    - Only back-end
+    - Both front-end and back-end
+    - Only database
+    correctReplyIndex: 2
+  - questionText: 'Git is used for:'
+    replies:
+    - Designing websites
+    - Version control
+    - Playing games
+    - Editing images
+    correctReplyIndex: 1
+  - questionText: 'GitHub is used for:'
+    replies:
+    - Cooking
+    - Code collaboration
+    - Hardware design
+    - Video editing
+    correctReplyIndex: 1
+  - questionText: 'Which tool is used for web testing? '
+    replies:
+    - Browser
+    - MS Paint
+    - Excel
+    - WordPad
+    correctReplyIndex: 0
+  - questionText: 'Front-end deals with:'
+    replies:
+    - Server
+    - User interface
+    - Database
+    - Cloud only
+    correctReplyIndex: 1
+  - questionText: 'Back-end is responsible for:'
+    replies:
+    - Design
+    - Data processing
+    - Fonts
+    - Colors
+    correctReplyIndex: 1
+  - questionText: 'MySQL is a type of: '
+    replies:
+    - Programming language
+    - Database
+    - Browser
+    - Framework
+    correctReplyIndex: 1
+  - questionText: Which is a front-end framework?
+    replies:
+    - React
+    - PHP
+    - MySQL
+    - Python
+    correctReplyIndex: 0
+  - questionText: 'Web development is important because:'
+    replies:
+    - It deletes data
+    - It connects users online
+    - It slows systems
+    - It is not useful
+    correctReplyIndex: 1
+  - questionText: What does API stand for?
+    replies:
+    - Application Programming Interface
+    - Application Process Input
+    - Advanced Program Internet
+    - Application Print Internet
+    correctReplyIndex: 0
